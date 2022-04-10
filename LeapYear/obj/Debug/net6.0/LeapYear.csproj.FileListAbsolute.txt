@@ -1,0 +1,15 @@
+D:\logicalquestion\LogicalProblem\LeapYear\bin\Debug\net6.0\LeapYear.exe
+D:\logicalquestion\LogicalProblem\LeapYear\bin\Debug\net6.0\LeapYear.deps.json
+D:\logicalquestion\LogicalProblem\LeapYear\bin\Debug\net6.0\LeapYear.runtimeconfig.json
+D:\logicalquestion\LogicalProblem\LeapYear\bin\Debug\net6.0\LeapYear.dll
+D:\logicalquestion\LogicalProblem\LeapYear\bin\Debug\net6.0\LeapYear.pdb
+D:\logicalquestion\LogicalProblem\LeapYear\obj\Debug\net6.0\LeapYear.csproj.AssemblyReference.cache
+D:\logicalquestion\LogicalProblem\LeapYear\obj\Debug\net6.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\logicalquestion\LogicalProblem\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfoInputs.cache
+D:\logicalquestion\LogicalProblem\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfo.cs
+D:\logicalquestion\LogicalProblem\LeapYear\obj\Debug\net6.0\LeapYear.csproj.CoreCompileInputs.cache
+D:\logicalquestion\LogicalProblem\LeapYear\obj\Debug\net6.0\LeapYear.dll
+D:\logicalquestion\LogicalProblem\LeapYear\obj\Debug\net6.0\refint\LeapYear.dll
+D:\logicalquestion\LogicalProblem\LeapYear\obj\Debug\net6.0\LeapYear.pdb
+D:\logicalquestion\LogicalProblem\LeapYear\obj\Debug\net6.0\LeapYear.genruntimeconfig.cache
+D:\logicalquestion\LogicalProblem\LeapYear\obj\Debug\net6.0\ref\LeapYear.dll
