@@ -1,5 +1,5 @@
 ﻿using System;
 using LogicsProblem;
 
-Logics HM = new Logics();
-HM.HarmonicNumber();
+PrimeFactor HM = new PrimeFactor();
+HM.primeFactor();
